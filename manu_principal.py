@@ -1,6 +1,11 @@
-#on cree un menu principale avec "play et exit"
+from test_module import testFunction
+from fastClicker import gameClicker
 
+#on cree un menu principale avec "play et exit"
+playing = False
 choice = ""
+testFunction(playing)
+
 #test(jsp comment ca marche, voir video)
 while True:
     
@@ -12,9 +17,11 @@ while True:
     
     if(choice == "1"):
         print("ok start program")
+        playing = True
         #mtn il faut "activer" le play
         break
     elif (choice =="2"):
+        print("bye")
         break
     else:
         print("invalid option. please try again!")
