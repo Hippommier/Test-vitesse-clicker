@@ -29,3 +29,4 @@ while True:
         
 #ca marche? let's goooo
 #mtn faut que le bouton "play" fasse qqch...comment?
+#ca marche mais MTN APRES AVOIR START? CA AFFICE LES GAMEMODE ET LE CODE D4AVANT OR ON NE VEUT PAS LE "START" et " quitte"
