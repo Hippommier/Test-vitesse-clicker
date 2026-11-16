@@ -1,5 +1,6 @@
 from test_module import testFunction
 from fastClicker import gameClicker
+from play_game_menu import playprog
 
 #on cree un menu principale avec "play et exit"
 playing = False
