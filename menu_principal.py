@@ -1,6 +1,6 @@
 from test_module import testFunction
 from fastClicker import gameClicker
-from play_game_menu import playprog
+from Menu_gamemode import playprog
 
 #on cree un menu principale avec "play et exit"
 playing = False
@@ -29,3 +29,4 @@ while True:
         
 #ca marche? let's goooo
 #mtn faut que le bouton "play" fasse qqch...comment?
+#ca marche mais MTN APRES AVOIR START? CA AFFICE LES GAMEMODE ET LE CODE D4AVANT OR ON NE VEUT PAS LE "START" et " quitte"
